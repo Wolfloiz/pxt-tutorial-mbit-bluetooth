@@ -10,7 +10,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "test-mbit.md"
     ],
     "testFiles": [
         "test.ts"
