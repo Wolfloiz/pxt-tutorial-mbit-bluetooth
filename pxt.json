@@ -11,7 +11,8 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "test-mbit.md"
+        "test-mbit.md",
+        "test-bt.md"
     ],
     "testFiles": [
         "test.ts"
