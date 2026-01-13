@@ -775,5 +775,5 @@ basic.showIcon(IconNames.Square)
 
 
 ```package
-fuzzyBot=github:FuzzyMakers/pxt-fuzzyMakers
+fuzzyBot=github:FuzzyMakers/pxt-smartMakers
 ```
